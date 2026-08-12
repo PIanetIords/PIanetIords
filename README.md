@@ -1,4 +1,10 @@
-"https://github.com/user-attachments/assets/b7f314a6-ea95-4b10-b20d-a8d7370593c3" />
+</picture>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"https://github.com/user-attachments/assets/cc12931e-c91f-4f17-9952-69501ba00419" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/e7960b66-47e4-4e08-a536-e9a120f6457c" />
+  <img alt="Your Image Description" src="https://github.com/user-attachments/assets/b0be367e-de21-4eb7-a218-717b68fe8c37" />
+</picture>
 
 
 [Atabook](Https://yuene.atabook.org)
@@ -10,7 +16,7 @@
 <img width="150" height="20" alt="1000158313" src="https://github.com/user-attachments/assets/d8437dca-6ebc-4fb9-9d47-6a8a76b57eaf" />
  [ @charactersofpt](https://github.com) SpokeIsHere's
 
-bro I'm genuinely so lazy to make an actual readme BYE
+
 
 
 
