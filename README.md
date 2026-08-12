@@ -4,7 +4,6 @@
   
   ${\textsf{\color{#F5D9D7} 𝓟romise}}$ ${\textsf{\color{#F5E0C4} 𝓘}}$ ${\textsf{\color{#F8EAD5} 𝓛ike}}$ ${\textsf{\color{#E5F4D9} 𝓘t}}$ ${\textsf{\color{#E4E1EB} 𝓛ike}}$ ${\textsf{\color{#F4F3EA} (⁠ ⁠◜⁠‿⁠◝⁠ ⁠)⁠♡}}$
 
-![Profile Views](https://komarev.com/ghpvc/?username=PIanetIords
 
 
 
@@ -16,3 +15,4 @@
 
 
 
+<img width="120" height="420" alt="1000162006" src="https://github.com/user-attachments/assets/b03c0725-250e-48a6-ab12-19dae9cb040f" />
