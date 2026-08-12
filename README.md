@@ -1,8 +1,4 @@
-</picture>
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"https://github.com/user-attachments/assets/cc12931e-c91f-4f17-9952-69501ba00419" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/e7960b66-47e4-4e08-a536-e9a120f6457c" />
+ srcset="https://github.com/user-attachments/assets/e7960b66-47e4-4e08-a536-e9a120f6457c" />
   <img alt="Your Image Description" src="https://github.com/user-attachments/assets/b0be367e-de21-4eb7-a218-717b68fe8c37" />
 </picture>
 
