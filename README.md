@@ -1,4 +1,4 @@
-<img width="720" height="717" alt="1000162032" src="https://github.com/user-attachments/assets/4bcdc51b-da14-4de4-a6ba-dbe152bbc794" />
+<img width="735" height="555" alt="1000162578" src="https://github.com/user-attachments/assets/c5f96ea4-0c31-4394-9242-f8de27fb37b0" />
 
 [Atabook](Https://yuene.atabook.org)
   
@@ -6,6 +6,11 @@
 
 ![](https://komarev.com/ghpvc/?username=PIanetIords)
 
+OOMF ME UP ON TIKTOK ESPECIALLY IF YOUR AN EDITOR I NEED HELP YO IMPORVE THISIS ONE OF MY EDITS
+
+
+
+https://github.com/user-attachments/assets/32485500-da99-477e-996e-523aa905fdfc
 
 
 
@@ -15,6 +20,3 @@
 
 
 
-
-<img width="420" height="620" alt="1000162006" src="https://github.com/user-attachments/assets/b03c0725-250e-48a6-ab12-19dae9cb040f" />
-imcrime pls dont take the image seriously..
