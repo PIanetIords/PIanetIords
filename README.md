@@ -6,11 +6,23 @@
 
 ![](https://komarev.com/ghpvc/?username=PIanetIords)
 
-OOMF ME UP ON TIKTOK ESPECIALLY IF YOUR AN EDITOR I NEED HELP YO IMPORVE THISIS ONE OF MY EDITS
+OOMF ME UP ON TIKTOK ESPECIALLY IF YOUR AN EDITOR I NEED HELP YO IMPORVE THESE ARE MY FAVS 
 
 
 
 https://github.com/user-attachments/assets/32485500-da99-477e-996e-523aa905fdfc
+
+
+https://github.com/user-attachments/assets/7ca4eda7-d877-40bf-bed8-214f8eac6d8b
+
+
+
+https://github.com/user-attachments/assets/0f1d7f9e-2e9b-437d-94ca-92a8da2bda2f
+
+
+
+
+https://github.com/user-attachments/assets/115a08b9-9bc4-45fc-bb71-f612187efc6c
 
 
 
