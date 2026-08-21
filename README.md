@@ -8,4 +8,4 @@ ${\textsf{\color{#37121e} 𝓟romise}}$ ${\textsf{\color{#d1e6e4} 𝓘}}$ ${\tex
 
 ![](https://komarev.com/ghpvc/?username=PIanetIords)
 
-![Planets Counter](https://komarev.com)
+![Planets Counter](https://komarev.com/ghpvc/?username=PIanetIords).
