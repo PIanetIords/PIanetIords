@@ -1,7 +1,4 @@
-<img width="200" height="200" alt="1000162683" src="https://github.com/user-attachments/assets/ee227a9b-f487-4f5e-b1e3-6d935380f845" />
-
-
-
+<img width="180" height="180" alt="1000162683" src="https://github.com/user-attachments/assets/e3a83141-8507-4dfd-8025-27a161ab3844" />
 [Atabook](Https://yuene.atabook.org) 
 .[strawpage](https://hilollol.straw.page.)
    
@@ -9,4 +6,3 @@ ${\textsf{\color{#37121e} 𝓟romise}}$ ${\textsf{\color{#d1e6e4} 𝓘}}$ ${\tex
 
 ![](https://komarev.com/ghpvc/?username=PIanetIords)
 
-<img width="720" height="405" alt="1000162684" src="https://github.com/user-attachments/assets/b2ea7e6d-1e1b-4543-9139-d35de5e5633d" />
