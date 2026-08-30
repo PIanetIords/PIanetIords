@@ -1,6 +1,4 @@
-<img width="1500" height="500" alt="1000163209" src="https://github.com/user-attachments/assets/fe258b13-41cd-47af-ba89-201fa5670093" />
-
-<img width="1366" height="2048" alt="1000163199" src="https://github.com/user-attachments/assets/c09949a4-c895-48a6-9c2b-d6de4e3b8a43" />
+<img width="1366" height="2048" alt="1000163210" src="https://github.com/user-attachments/assets/54df0f7b-73ee-4ff4-9ff5-11df392d6d68" />
 
 ![](https://komarev.com/ghpvc/?username=PIanetIords&label=candies&color=CED9F7)
 
