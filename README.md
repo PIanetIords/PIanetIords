@@ -9,4 +9,4 @@ rickroll me again and I'll skin you alive (targeted yes ok) CHECK STRAWPAGE B4 I
 
 ADD ME ON DISCORD! my user is yue.euy_
 
-TY ![@charactersofpt](https://github.com/charactersofpt)![@pt-friendships](https://github.com/pt-friendships) ![@ponytowncosplayers](https://github.com/ponytowncosplayers)
+TY [@charactersofpt](https://github.com/charactersofpt)[@pt-friendships](https://github.com/pt-friendships) [@ponytowncosplayers](https://github.com/ponytowncosplayers)
