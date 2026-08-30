@@ -8,4 +8,7 @@ yue.euy_
 TY [@charactersofpt](https://github.com/charactersofpt) [@pt-friendships](https://github.com/pt-friendships) [@ponytowncosplayers](https://github.com/ponytowncosplayers)
 
 <img width="1500" height="500" alt="1000163208" src="https://github.com/user-attachments/assets/c62b3f95-a3fb-4052-b88a-3b127359ae1a" />
+
 bonus photo
+<img width="735" height="490" alt="1000163188" src="https://github.com/user-attachments/assets/61f045b5-22bc-431e-946a-eb6c6f648e25" />
+
