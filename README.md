@@ -5,7 +5,7 @@
 rickroll me again and I'll skin you alive (targeted yes ok) CHECK STRAWPAGE B4 INTERACTING and rentry for Fandoms ok?
 
 
-![](https://komarev.com/ghpvc/?username=PIanetIords)
+![](https://komarev.com/ghpvc/?username=PIanetIords&label=candies&color=E19EFF)
 
 ADD ME ON DISCORD! my user is yue.euy_
 
