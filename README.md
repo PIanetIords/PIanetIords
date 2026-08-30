@@ -6,8 +6,8 @@
 
 ![](https://komarev.com/ghpvc/?username=PIanetIords&label=candies&color=CED9F7)
 
-${\textsf{\color{#CED9F7} add}}$ ${\textsf{\color{#F0E9DE} me}}$ ${\textsf{\color{#565791} on}}$ ${\textsf{\color{#434986} discord}}$ ${\textsf{\color{#9EA9C9} yue.euy_}}$ 
-
+${\textsf{\color{#CED9F7} add}}$ ${\textsf{\color{#F0E9DE} me}}$ ${\textsf{\color{#565791} on}}$ ${\textsf{\color{#434986} discord}}$ ${\textsf{\color{#9EA9C9} my+user+is}}$ 
+yue.euy_
 <img width="1366" height="2048" alt="1000163206" src="https://github.com/user-attachments/assets/6dcfafcd-ea9d-48b4-8a9a-d52989e39965" />
 
 TY [@charactersofpt](https://github.com/charactersofpt) [@pt-friendships](https://github.com/pt-friendships) [@ponytowncosplayers](https://github.com/ponytowncosplayers)
