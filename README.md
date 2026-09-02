@@ -5,8 +5,6 @@
 ${\textsf{\color{#CED9F7} add}}$ ${\textsf{\color{#F0E9DE} me}}$ ${\textsf{\color{#565791} on}}$ ${\textsf{\color{#434986} discord}}$ ${\textsf{\color{#9EA9C9} my user is}}$ 
 yue.euy_ 
 
-[Atabook](https://yuene.atabook.org).
-
 TY [@charactersofpt](https://github.com/charactersofpt) [@pt-friendships](https://github.com/pt-friendships) [@ponytowncosplayers](https://github.com/ponytowncosplayers)
 
 <img width="1500" height="500" alt="1000163208" src="https://github.com/user-attachments/assets/c62b3f95-a3fb-4052-b88a-3b127359ae1a" />
